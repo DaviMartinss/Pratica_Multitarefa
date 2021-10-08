@@ -1,0 +1,38 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\ref\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringLib.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.CopyComplete
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\ref\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\ref\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringApp.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\bin\Debug\net5.0\MonitoringLib.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.csproj.CopyComplete
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\ref\MonitoringApp.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringApp\obj\Debug\net5.0\MonitoringApp.genruntimeconfig.cache

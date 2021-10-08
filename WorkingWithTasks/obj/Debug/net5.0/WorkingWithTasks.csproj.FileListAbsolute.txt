@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.genruntimeconfig.cache

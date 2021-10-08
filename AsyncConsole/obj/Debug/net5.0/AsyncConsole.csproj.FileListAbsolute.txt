@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.genruntimeconfig.cache

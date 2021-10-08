@@ -1,0 +1,24 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\bin\Debug\net5.0\ref\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\ref\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\bin\Debug\net5.0\ref\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\bin\Debug\net5.0\MonitoringLib.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\ref\MonitoringLib.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\MonitoringLib\obj\Debug\net5.0\MonitoringLib.pdb

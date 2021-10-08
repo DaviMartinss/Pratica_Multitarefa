@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Cap 13\Codigo entrega\Capitulo13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.genruntimeconfig.cache
