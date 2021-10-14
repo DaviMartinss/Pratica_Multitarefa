@@ -10,6 +10,7 @@ namespace Packt.Shared
         static Stopwatch timer = new Stopwatch();
         static long bytesPhysicalBefore = 0; 
         static long  bytesVirtualBefore = 0; 
+        
         public static void Start(){
 
             GC.Collect(); 
